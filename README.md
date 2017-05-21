@@ -44,6 +44,6 @@ License and Authors
 Please see [LICENSE][licence]
 Authors: Chris Sullivan
 
-[contributor]: https://github.com/chrisgit/go-hello_world/blob/master/CONTRIBUTING.md
-[conduct]: https://github.com/chrisgit/go-hello_world/blob/master/CODE_OF_CONDUCT.md
-[licence]: https://github.com/chrisgit/go-hello_world/blob/master/LICENSE
+[contributor]: https://github.com/chrisgit/go-interface_logger/blob/master/CONTRIBUTING.md
+[conduct]: https://github.com/chrisgit/go-interface_logger/blob/master/CODE_OF_CONDUCT.md
+[licence]: https://github.com/chrisgit/go-interface_logger/blob/master/LICENSE
